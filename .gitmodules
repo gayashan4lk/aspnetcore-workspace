@@ -1,0 +1,15 @@
+[submodule "aspnetcore-mvc-mint-app"]
+	path = aspnetcore-mvc-mint-app
+	url = git@github.com:gayashan4lk/aspnetcore-mvc-mint-app.git
+[submodule "aspnetcore-mvc-ef-bootstrap-angular"]
+	path = aspnetcore-mvc-ef-bootstrap-angular
+	url = git@github.com:gayashan4lk/aspnetcore-mvc-ef-bootstrap-angular.git
+[submodule "aspnetcore-web-api-beginner"]
+	path = aspnetcore-web-api-beginner
+	url = git@github.com:gayashan4lk/aspnetcore-web-api-beginner.git
+[submodule "aspnetcore-ode-to-food"]
+	path = aspnetcore-ode-to-food
+	url = git@github.com:gayashan4lk/aspnetcore-ode-to-food.git
+[submodule "aspnetcore-mvc-first-web-app"]
+	path = aspnetcore-mvc-first-web-app
+	url = git@github.com:gayashan4lk/aspnetcore-mvc-first-web-app.git
